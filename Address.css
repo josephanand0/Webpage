@@ -1,0 +1,43 @@
+.menu {
+    height:39px;
+    background-color: rgb(168, 2, 2);
+    line-height: 35px;
+}
+.menu a{
+    display: inline-block;
+    padding:0 45px;
+    color:rgb(247, 239, 239);
+    text-align: center;
+    font-size: 15px;
+    border-right: 1px solid rgb(86, 40, 92);
+    text-decoration: none;
+
+}
+.menu a:hover{
+    background-size:100% 100%;
+    background-color:black;
+}
+.imag1
+e1 {
+    margintop:3px;
+    position: absolute;
+    left:5px;
+    top:0;
+}
+.title {
+    top:0%;
+    color:black;
+    margin-left:130px;
+}
+.sub {
+    margin-left: 130px;
+    margin-top: -8px;
+    color:black;
+}
+.style{
+    background-image: url(50-Beautiful-and-Minimalist-Presentation-Backgrounds-022.jpg);
+}
+.img {
+    left:50%;
+    right:20%;
+ }

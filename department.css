@@ -1,0 +1,34 @@
+.menu {
+    height:39px;
+    background-color: rgb(168, 2, 2);
+    line-height: 35px;
+}
+.menu a{
+    display: inline-block;
+    padding:0 45px;
+    color:rgb(247, 239, 239);
+    text-align: center;
+    font-size: 15px;
+    border-right: 1px solid rgb(86, 40, 92);
+    text-decoration: none;
+
+}
+.menu a:hover{
+    background-size:100% 100%;
+    background-color:black;
+}
+
+.img {
+    left:500px;
+    background-color: white;
+}
+.title {
+    top:0%;
+    color:black;
+    margin-left:130px;
+}
+.sub {
+    margin-left: 130px;
+    margin-top: -8px;
+    color:black;
+}
